@@ -42,7 +42,7 @@ From the terminal, run:
 
 `npx n8n`
 
-This command will download everything that is needed to start n8n. You can then access n8n and start building workflows by opening [http://localhost:5678](http://localhost:5678).
+This command will download everything that is needed to start n8n. You can then access n8n and start building workflows by opening [http://app.noco-erp.com](http://app.noco-erp.com).
 
 ## n8n cloud
 

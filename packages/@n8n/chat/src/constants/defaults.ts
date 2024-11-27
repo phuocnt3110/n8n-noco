@@ -1,7 +1,7 @@
 import type { ChatOptions } from '@n8n/chat/types';
 
 export const defaultOptions: ChatOptions = {
-	webhookUrl: 'http://localhost:5678',
+	webhookUrl: 'http://app.noco-erp.com',
 	webhookConfig: {
 		method: 'POST',
 		headers: {},

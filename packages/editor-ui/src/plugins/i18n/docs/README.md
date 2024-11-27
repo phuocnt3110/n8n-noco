@@ -43,7 +43,7 @@ Version: 0.156.0
 Locale: de
 
 Editor is now accessible via:
-http://localhost:5678/
+http://app.noco-erp.com/
 
 Press "o" to open in Browser.
 ```
@@ -504,7 +504,7 @@ pnpm watch
 After changing the dynamic text file:
 
 1. Stop and restart the first terminal.
-2. Refresh the browser at `http://localhost:5678`
+2. Refresh the browser at `http://app.noco-erp.com`
 
 If a `headerText` section was changed, re-run `pnpm n8n-generate-translations` in `/nodes-base`.
 

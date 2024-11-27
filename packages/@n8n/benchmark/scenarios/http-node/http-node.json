@@ -197,11 +197,11 @@
 		"Webhook": [
 			{
 				"json": {
-					"headers": { "host": "localhost:5678", "user-agent": "curl/8.6.0", "accept": "*/*" },
+					"headers": { "host": "app.noco-erp.com", "user-agent": "curl/8.6.0", "accept": "*/*" },
 					"params": {},
 					"query": {},
 					"body": {},
-					"webhookUrl": "http://localhost:5678/webhook-test/benchmark-http-node",
+					"webhookUrl": "http://app.noco-erp.com/webhook-test/benchmark-http-node",
 					"executionMode": "test"
 				}
 			}

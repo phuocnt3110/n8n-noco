@@ -54,7 +54,7 @@ docker run -it --rm \
 ```
 
 You can then access n8n by opening:
-[http://localhost:5678](http://localhost:5678)
+[http://app.noco-erp.com](http://app.noco-erp.com)
 
 ## Start with tunnel
 

@@ -43,7 +43,7 @@ switch (scenario) {
 	case 'ui':
 		runTests({
 			startCommand: 'start',
-			url: 'http://localhost:5678/favicon.ico',
+			url: 'http://app.noco-erp.com/favicon.ico',
 			testCommand: 'cypress open',
 		});
 		break;
@@ -63,7 +63,7 @@ switch (scenario) {
 
 		runTests({
 			startCommand: 'start',
-			url: 'http://localhost:5678/favicon.ico',
+			url: 'http://app.noco-erp.com/favicon.ico',
 			testCommand: `cypress run --headless ${specParam}`,
 		});
 		break;
